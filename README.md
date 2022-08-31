@@ -6,10 +6,4 @@ own fossil site as well.
 
 ### Fossil database API
 
-*  https://paleobiodb.org/#/
-
-##Team Members
-
-*  Piara Sandhu
-*  Calvin Settachatgul
-*  Hugh Sutton-Gee
+*  https://paleobiodb.org/
